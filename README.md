@@ -1,0 +1,2 @@
+# JavaWeb-LectureManagementSystem
+基于UMLChina习题中的优马神州管理系统建模开发。
